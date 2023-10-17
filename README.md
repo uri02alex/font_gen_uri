@@ -6,7 +6,7 @@
 ___
 <p color="red">Вид главного окна программы</p>
 
-![font_number16_16bit c](https://github.com/uri02alex/font_gen_uri/blob/master/SCREN/FontAfteGenerste.jpg)
+![font_number16_16bit c](https://github.com/uri02alex/font_gen_uri/blob/master/SCREN/Main_window.jpg)
 <p>Вид сгенерированного файла</p>
 
 ![font_number16_16bit c](https://github.com/uri02alex/font_gen_uri/blob/master/SCREN/FontAfteGenerste.jpg)
